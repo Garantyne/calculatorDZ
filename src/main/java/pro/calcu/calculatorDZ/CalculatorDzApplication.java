@@ -8,6 +8,7 @@ public class CalculatorDzApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(CalculatorDzApplication.class, args);
+
 	}
 
 }
